@@ -1,0 +1,2 @@
+google-generativeai==0.8.4
+Django==4.2.11  # Assuming Django is used based on project structure
